@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/mattbaumann/cordova/comp422_wk05/source/week5/cordova/tripnotes0.0.1/platforms/android/CordovaLib/assets"/></dataSet><dataSet config="debug"><source path="/Users/mattbaumann/cordova/comp422_wk05/source/week5/cordova/tripnotes0.0.1/platforms/android/CordovaLib/src/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/mattbaumann/cordova/comp422_wk05/tripnotes0.0.1/platforms/android/CordovaLib/assets"/></dataSet><dataSet config="debug"><source path="/Users/mattbaumann/cordova/comp422_wk05/tripnotes0.0.1/platforms/android/CordovaLib/src/debug/assets"/></dataSet></merger>
